@@ -1,0 +1,43 @@
+50   50   50   Abakuks, A.
+49   50   50   Balantine, R.N.
+50   49   50   Blanc, M.H.A.
+50   50   49   Brawn, A.
+60   60   40   Cairns, D.J.
+59   60   40   Coast, G.N.
+60   59   40   Crick, B.
+60   60   39   Davies, H.
+
+60   40   60   Farmer, M.R.
+59   60   40   Fenner, T.I.
+60   39   60   Giles, K.W.
+60   40   59   Harries, E.O.
+75   40   40   Harris, H.
+74   45   40   Harris, S.C.
+75   39   40   Inglis, J.
+75   40   39   King, P.J.H.
+-5   33   66   Kong, B.
+75   75   40   Lee, S.L.
+74   85   40   Loizou, G.
+75   74   40   Meara, P.M.
+75   83   39   Moore, L.
+41  210   22   Muffin, A.
+75   40   75   Myles, A.T.
+74   40   75   O'Shaughnessy, P.
+75   39   75   Ross, D.J.A.
+75   40   74   Smith, J.A.
+46   45  105   Smoothe, D.
+50   75   75   Snaith, H.L.
+49   82   75   Tiffin, R.W.
+50   74   75   Walters, B.L.
+50   75   74   Westerdale, T.H.
+39   xx   22   Wiggley, L.
+83   95   45   Wilcox, P.A.
+92   95    0   Zubaida, S.D.
+50   55        Zucchini, I.
+ 0    0    0   Zug, R.
+ 0   95   95   Zuo, S.
+95   95   96   Zurprise, N.
+60   59   59   Zusammen, J.
+75   35   75   Zutalors, X.
+               Zwingli, E.
+95   95   95   Zymurgy, Z.

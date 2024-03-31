@@ -1,0 +1,10 @@
+   Inglis (1994) describes it thus:
+
+"For output of   floating-point numbers, the format strings used by printf may include %f or %e (or %g, which we will ignore).  These have much in common with %i:
+
+    "A minus sign indicates left justification, a plus sign indicates that the converted value will start with a plus sign if it is positive, and a minimum field width and/or a precision may be specified.
+
+Exactly 40 characters, not inc endofline
+
+"The difference between %f and %e is that   %f converts an argument to "normal" notation (e.g. "-15.7") and   %e to "scientific" notation (e.g. "-1.57e01") with one significant digit before the decimal point."
+END_HERE.
